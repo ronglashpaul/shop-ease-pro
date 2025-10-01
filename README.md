@@ -11,7 +11,7 @@ git add .
 git commit -m "feat: initial commit with full stack code, docs, and deployment scripts"
 链接到你的 GitHub 仓库（替换你的用户名）
 # 设置远程仓库地址（请替换 your-github-username）
-git remote add origin https://github.com/your-github-username/shop-ease-pro.git
+git remote add origin https://github.com/your-github-ronglashpaul/shop-ease-pro.git
 
 # 推送到 GitHub（主分支为 main）
 git branch -M main
